@@ -14,4 +14,4 @@ Package `nl.sourcelabs.kotlin.live` contains the results of the live coding sess
 
 The repository is set up as a maven project, so simply import the root `pom.xml` file in your favorite IDE and you should be good to go!
 
-Please drop me a message if more information is needed.
+Feel free to contact me if you need more information!
